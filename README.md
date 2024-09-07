@@ -1,5 +1,5 @@
 # DSCI 510 Final Project
-This repository contains the final project for DSCI 510 - Principles of Programming for Data Science at USC (University of Southern California) Viterbi School of Engineering for the Fall 2023 semester. Tasks included web scraping for data, data cleaning/pre-processing, and running analyses to extract statistical insights.
+This repository contains the final project for DSCI 510 - Principles of Programming for Data Science at USC (University of Southern California) Viterbi School of Engineering for the Fall 2023 semester. Tasks included web scraping for data, data cleaning/pre-processing, and running analyses to extract statistical insights. This project was originally developed using GitHub Classroom.
 
 ## Name of the Project
 Movie Data Mining
