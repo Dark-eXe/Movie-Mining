@@ -1,6 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/h_LXMCrc)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12663260&assignment_repo_type=AssignmentRepo)
 # DSCI 510 Final Project
+This repository contains the final project for DSCI 510 - Principles of Programming for Data Science at USC (University of Southern California) Viterbi School of Engineering for the Fall 2023 semester. Tasks included web scraping for data and running analyses to extract statistical insights.
 
 ## Name of the Project
 Movie Data Mining
